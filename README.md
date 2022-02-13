@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/auringzaib-sabir/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/auringzaib-sabir/#gh-dark-mode-only)
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RISC-V-logo.svg/2560px-RISC-V-logo.svg.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="System Verilog" width="120px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/SystemVerilog_logo.png/240px-SystemVerilog_logo.png" style="padding-right:10px;" />][webdevplaylist]
+
+[webdevplaylist]: https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=150s
