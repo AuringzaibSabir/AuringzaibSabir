@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="System Verilog" width="120px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/SystemVerilog_logo.png/240px-SystemVerilog_logo.png" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="UVM" width="50px" src="https://s3.amazonaws.com/images.verification.academy/uvm.jpg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RISC-V-logo.svg/2560px-RISC-V-logo.svg.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://e7.pngegg.com/pngimages/593/15/png-clipart-python-others-text-logo.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpGLMOnzOrIQd7nwgQ0TAG16-V-67dEm1RxJ66grsN6EQwFiTlrxrePxbwhZ8mF783n0&usqp=CAU" />][webdevplaylist]
 
-[webdevplaylist]: https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=150s
+[webdevplaylist]: https://github.com/AuringzaibSabir
