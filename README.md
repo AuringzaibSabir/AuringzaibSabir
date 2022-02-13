@@ -1,5 +1,6 @@
 ## Hello World! 👋 I'm Auringzaib Sabir - Hardware Verification Engineer & Researcher
 #### I am (!Gold_Medalist || !Failure)
+Over the last few years, I have been serving in the semiconductor industry as a hardware verification engineer. I have gained a piece of considerable knowledge in the aspects of implementing verification methodologies.
 
 <!--
 **AuringzaibSabir/AuringzaibSabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
