@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm Auringzaib Sabir - Hardware Verification Engineer & Researcher
+## Hello World! 👋 I'm Auringzaib Sabir - Hardware Verification Engineer & Research Associate
 #### I am (!Gold_Medalist || !Failure)
 Over the last few years, I have been serving in the semiconductor industry as a hardware verification engineer. I have gained a considerable knowledge in the aspects of implementing verification methodologies.
 
